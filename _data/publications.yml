@@ -14,10 +14,8 @@ main:
     # bibtex: ~
     # notes: ~
 
-  - title: 'Temporal Dynamics of Meta-Awareness of Mind Wandering during Lecture Viewing:
-    Implications for Learning and Automated Assessment using Machine Learning'
-    authors: <strong>Bühler, B.</strong>, Bozkir, E., Goldberg, P., Deininger, H., D'Mello,
-    S., Gerjets, P., Trautwein, U., & Kasneci, E.
+  - title: 'Temporal Dynamics of Meta-Awareness of Mind Wandering during Lecture Viewing: Implications for Learning and Automated Assessment using Machine Learning'
+    authors: <strong>Bühler, B.</strong>, Bozkir, E., Goldberg, P., Deininger, H., D'Mello, S., Gerjets, P., Trautwein, U., & Kasneci, E.
     conference_short: JEP
     conference: Journal of Educational Psychology, 2024.
     #pdf: https://doi.org/10.1037/edu0000903
