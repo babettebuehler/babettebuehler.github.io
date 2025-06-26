@@ -9,21 +9,21 @@ In 2023, I completed a research stay at the Emotive Computing Lab (University of
 
 ## Research Interests
 
-My research lies at the intersection of artificial intelligence and learning sciences, with a focus on multimodal machine learning to assess cognitive and behavioral processes during learning. I develop AI-powered systems that integrate eye tracking, facial video, physiological signals, and text to model attention, engagement, and instructional quality.
+My research lies at the intersection of artificial intelligence and research on education, with a focus on *multimodal machine learning to assess cognitive and behavioral processes during learning*. I develop AI-powered educational tools that integrate eye tracking, facial video, physiological signals, and text to model attention, engagement, and instructional quality and offer targeted, adaptive support.
 
 Key topics include:
 
-- Detection of aware and unaware mind wandering in online learning environments
+- Multimodal detection of aware and unaware mind wandering in online learning environments
 - Adaptive, attention-aware learning technologies and real-time interventions
 - Automated assessment of classroom dynamics, such as hand-raising and discourse quality
 - AI literacy and human-centered feedback systems for K-12 learners
 
 
 ## News
-- **July 2025** Invited IJAIED talk at the International Conference of Artifical Intelligence in Education (AIED) on generalizable video-based mind wandering detection (see [paper](https://link.springer.com/content/pdf/10.1007/s40593-024-00412-2.pdf)) ([AIED 2025](https://aied2025.itd.cnr.it))
-- **[Jun. 2025]** Invited talk on the potential for adaptive learning in XR: automated recognition of cognitive processes through eye tracking ([Workshop of the Extended Reality Focus Group, University of Bern, Switzerland](https://www.digitalisierung.unibe.ch/implementation/focus_groups/subpage_focus_group_extended_reality/index_eng.html)) 
-- **[May 2025]** Talk at the Super Science Club – Wissenschaft hautnah erleben, [Zamanand Festival](https://zamanand.de/buehnen/super-science-club/), Munich: The democratisation of education: Using AI to create more equal opportunities for children 
-- **[Feb. 2025]** Interview on Focus Instead of Mind Wandering: How to Keep Students Engaged in Class (see [interview in German](https://www.campus-schulmanagement.de/magazin/fokus-statt-abschweifen-so-bleiben-schuelerinnen-im-unterricht-bei-der-sache-babette-buehler)) ([Online-Magazin Schulmanagement](https://www.campus-schulmanagement.de/magazin))
+- **July 2025** Invited IJAIED talk on generalizable video-based mind wandering detection (see [paper](https://link.springer.com/content/pdf/10.1007/s40593-024-00412-2.pdf)) ([International Conference of Artifical Intelligence in Education (AIED) 2025](https://aied2025.itd.cnr.it))
+- **June 2025** Invited talk on the potential for adaptive learning in XR: automated recognition of cognitive processes through eye tracking ([Workshop of the Extended Reality Focus Group, University of Bern, Switzerland](https://www.digitalisierung.unibe.ch/implementation/focus_groups/subpage_focus_group_extended_reality/index_eng.html)) 
+- **May 2025** Talk on the democratisation of education: Using AI to create more equal opportunities for children (see [linkedin](https://www.linkedin.com/posts/babette-b%C3%BChler-6615791b2_it-was-such-a-pleasure-to-be-part-of-the-activity-7333552656210149388-e1h2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGP02kB19WCo0PITxWSrXq6GoiA2aF29mU)) ([Super Science Club – Wissenschaft hautnah erleben, Zamanand Festival](https://zamanand.de/buehnen/super-science-club/))
+- **Feb. 2025** Interview 'Focus Instead of Mind Wandering: How to Keep Students Engaged in Class' (see [interview in German](https://www.campus-schulmanagement.de/magazin/fokus-statt-abschweifen-so-bleiben-schuelerinnen-im-unterricht-bei-der-sache-babette-buehler)) ([Online-Magazin Schulmanagement](https://www.campus-schulmanagement.de/magazin))
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/publications-other.md %}
