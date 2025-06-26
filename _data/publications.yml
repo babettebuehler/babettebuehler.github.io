@@ -1,22 +1,130 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: 'Mapping Mind Wandering to the ‘Self-Regulated Learning Process, Multimodal
+      Data, and Analysis Grid’: A Systematic Review'
+    authors: <strong>Bühler, B.</strong>, Fütterer, T., von Keyserlingk, L., Bozkir,
+      E., Kasneci, E., Gerjets, P., & Trautwein, U.
+    conference_short: EdPsychRev
+    conference: Educational Psychology Review, 2025. Accepted for Publication.
+    pdf: ''
+    link: ''
+    image: ./assets/img/EPR.png
+    # poster: ~
+    # code: ~
+    # bibtex: ~
+    # notes: ~
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: 'Temporal Dynamics of Meta-Awareness of Mind Wandering during Lecture Viewing:
+    Implications for Learning and Automated Assessment using Machine Learning'
+    authors: <strong>Bühler, B.</strong>, Bozkir, E., Goldberg, P., Deininger, H., D'Mello,
+    S., Gerjets, P., Trautwein, U., & Kasneci, E.
+    conference_short: JEP
+    conference: Journal of Educational Psychology, 2024.
+    #pdf: https://doi.org/10.1037/edu0000903
+    link: https://doi.org/10.1037/edu0000903
+    image: ./assets/img/JEP.png
+
+  - title: 'From the Lab to the Wild: Examining the Generalizability of Video-based
+      Mind Wandering Detection'
+    authors: <strong>Bühler, B.</strong>, Bozkir, E., Goldberg, P., Sümer, Ö., D'Mello,
+      S., Gerjets, P., Trautwein, U., & Kasneci, E.
+    conference_short: IJAIED
+    conference: International Journal of Artificial Intelligence in Education, 2024.
+    #pdf: https://doi.org/10.1007/s40593-024-00412-2
+    link: https://doi.org/10.1007/s40593-024-00412-2
+    image: ./assets/img/IJAIED.png
+
+  - title: 'Automated Hand-Raising Detection in Classroom Videos: A View-Invariant and
+      Occlusion-Robust Machine Learning Approach'
+    authors: <strong>Bühler, B.</strong>, Hou, R., Bozkir, E., Goldberg, P., Gerjets,
+      P., Trautwein, U., & Kasneci, E.
+    conference_short: AIED
+    conference: International Conference on Artificial Intelligence in Education, 2023.
+    #pdf: https://doi.org/10.1007/978-3-031-36272-9_9
+    link: https://doi.org/10.1007/978-3-031-36272-9_9
+    image: ./assets/img/AIED.png
+
+
+other:
+
+  - title: 'Multimodal Assessment of Classroom Discourse Quality: A Text-Centered Attention-Based
+      Multi-Task Learning Approach'
+    authors: Hou, R., <strong>Bühler, B.</strong>, Fütterer, T., Bozkir, E., Gerjets,
+      P., Trautwein, U., & Kasneci, E.
+    conference_short: EDM
+    conference: Proceedings of the 18th International Conference on Educational Data
+      Mining, Palermo, Italy, 2025. Accepted for Publication.
+    #pdf: https://arxiv.org/pdf/2505.07902
+    link: https://arxiv.org/pdf/2505.07902
+    #image: ./assets/img/buehler-2025-edm-thumbnail.png
+
+  - title: Can AI grade your essays? A comparative analysis of large language models
+      and teacher ratings in multidimensional essay scoring
+    authors: Seßler, K., Fürstenberg, M., <strong>Bühler, B.</strong> & Kasneci, E.
+    conference_short: LAK25
+    conference: 'LAK25: The 15th International Learning Analytics and Knowledge Conference,
+      Dublin, Ireland, 2025.'
+    #pdf: https://doi.org/10.1145/3706468.3706527
+    link: https://doi.org/10.1145/3706468.3706527
+    #image: ./assets/img/buehler-2025-lak-thumbnail.png
+
+  - title: 'Detecting Aware and Unaware Mind Wandering During Lecture Viewing: A Multimodal
+      Machine Learning Approach Using Eye Tracking, Facial Videos and Physiological
+      Data'
+    authors: <strong>Bühler, B.</strong>, Bozkir, E., Goldberg, P., Deininger, H., Gerjets,
+      P., Trautwein, U., & Kasneci, E.
+    conference_short: ICMI
+    conference: Proceedings of the 26th International Conference on Multimodal Interaction
+      (ICMI '24), 2024.
+    #pdf: https://doi.org/10.1145/3678957.3685710
+    link: https://doi.org/10.1145/3678957.3685710
+    #image: ./assets/img/buehler-2024-icmi-thumbnail.png
+
+  - title: 'On Task and in Sync: Examining the Relationship between Gaze Synchrony and
+      Self-Reported Attention During Video Lecture Learning'
+    authors: <strong>Bühler, B.</strong>, Bozkir, E., Deininger, H., Gerjets, P., Trautwein,
+      U., & Kasneci, E.
+    conference_short: ETRA
+    conference: Proc. ACM Hum.-Comput. Interact. 8, ETRA, Article 230., 1–18, 2024.
+    #pdf: https://doi.org/10.1145/3655604
+    link: https://doi.org/10.1145/3655604
+    #image: ./assets/img/buehler-2024-etra-thumbnail.png
+
+
+  - title: Automated Assessment of Encouragement and Warmth in Classrooms Leveraging
+      Multimodal Emotional Features and ChatGPT
+    authors: Hou, R., Fütterer, T., <strong>Bühler, B.</strong>, Bozkir, E., Gerjets,
+      P., Trautwein, U., & Kasneci, E.
+    conference_short: AIED
+    conference: International Conference on Artificial Intelligence in Education, 2024.
+    #pdf: https://doi.org/10.1007/978-3-031-64302-6_5
+    link: https://doi.org/10.1007/978-3-031-64302-6_5
+    #image: ./assets/img/buehler-2024-aied1-thumbnail.png
+
+
+  - title: Watch out for those bananas! Gaze Based Mario Kart Performance Classification
+    authors: Fuhl, W., Severitt, B., Castner, N., <strong>Bühler, B.</strong>, Meyer,
+      J., Weber, D., ... & Kasneci, E.
+    conference_short: ETRA
+    conference: Proceedings of the 2023 Symposium on Eye Tracking Research and Applications.
+    #pdf: https://doi.org/10.1145/3588015.3590136
+    link: https://doi.org/10.1145/3588015.3590136
+    #image: ./assets/img/buehler-2023-etra-thumbnail.png
+
+  - title: Assessing dissimilarity of employment history information from survey and
+      administrative data using sequence analysis techniques
+    authors: <strong>Bühler, B.</strong>, Möhring, K., & Weiland, A. P.
+    conference_short: Q&Q
+    conference: Quality & Quantity, 56(6), 4747–4774, 2022.
+    #pdf: https://doi.org/10.1007/s11135-022-01333-9
+    link: https://doi.org/10.1007/s11135-022-01333-9
+    #image: ./assets/img/buehler-2022-qaq-thumbnail.png
+
+  - title: Web table classification based on visual features
+    authors: <strong>Bühler, B.</strong> & Paulheim, H.
+    conference_short: ICWE
+    conference: International Conference on Web Engineering, 2021.
+    #pdf: https://doi.org/10.1007/978-3-030-74296-6_15
+    link: https://doi.org/10.1007/978-3-030-74296-6_15
+    #image: ./assets/img/buehler-2021-icwe-thumbnail.png
+
