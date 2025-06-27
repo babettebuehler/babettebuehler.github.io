@@ -6,8 +6,7 @@ layout: homepage
 
 I am a postdoctoral researcher at the Chair of [Human-Centered Technologies for Learning at the Technical University of Munich](https://www.edu.sot.tum.de/hctl/startseite/). I hold a Dr. rer. nat. in Computer Science from the University of Tübingen, where I conducted my research at the Hector Research Institute of Education Sciences and Psychology and am a member of the LEAD Graduate School & Research Network. 
 
-My dissertation focused on the multimodal assessment of attention-related processes during learning, combining machine learning with eye tracking, video, and physiological data.
-In 2023, I completed a research stay at the Emotive Computing Lab (University of Colorado Boulder) with Prof. Sidney D’Mello, where I explored the generalizability of video-based mind wandering detection. I hold a Master’s degree in Data Science with a focus on Machine Learning and a Bachelor’s degree in Sociology, both from the University of Mannheim. During my studies, I worked at the Mannheim Centre for European Social Research (MZES), the Chair of Macrosociology, and GESIS – Leibniz Institute for the Social Sciences.
+My dissertation focused on the multimodal assessment of attention-related processes during learning, combining machine learning with eye tracking, video, and physiological data. In 2023, I completed a research stay at the Emotive Computing Lab (University of Colorado Boulder) with Prof. Sidney D’Mello, where I explored the generalizability of video-based mind wandering detection. I hold a Master’s degree in Data Science with a focus on Machine Learning and a Bachelor’s degree in Sociology, both from the University of Mannheim. During my studies, I worked at the Mannheim Centre for European Social Research (MZES), the Chair of Macrosociology, and GESIS – Leibniz Institute for the Social Sciences.
 
 ## Research Interests
 
