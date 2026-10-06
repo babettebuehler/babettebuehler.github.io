@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a postdoctoral researcher at the Chair of [Human-Centered Technologies for Learning at the Technical University of Munich](https://www.edu.sot.tum.de/hctl/startseite/). I hold a Dr. rer. nat. in Computer Science from the University of Tübingen, where I conducted my research at the Hector Research Institute of Education Sciences and Psychology and am a member of the LEAD Graduate School & Research Network. 
+I am a Tenure-Track Professor for AI in Education at the [Hector Research Institute of Education Sciences and Psychology University at Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-economics-and-social-sciences/subjects/department-of-social-sciences/education-sciences-and-psychology/institute/). Before that I was a postdoctoral researcher at the Chair of [Human-Centered Technologies for Learning at the Technical University of Munich](https://www.edu.sot.tum.de/hctl/startseite/). I hold a Dr. rer. nat. in Computer Science from the University of Tübingen, where I conducted my research at the Hector Research Institute of Education Sciences and Psychology and am a member of the LEAD Graduate School & Research Network. 
 
 My dissertation focused on the multimodal assessment of attention-related processes during learning, combining machine learning with eye tracking, video, and physiological data. In 2023, I completed a research stay at the Emotive Computing Lab (University of Colorado Boulder) with Prof. Sidney D’Mello, where I explored the generalizability of video-based mind wandering detection. I hold a Master’s degree in Data Science with a focus on Machine Learning and a Bachelor’s degree in Sociology, both from the University of Mannheim. During my studies, I worked at the Mannheim Centre for European Social Research (MZES), the Chair of Macrosociology, and GESIS – Leibniz Institute for the Social Sciences.
 
@@ -17,10 +17,13 @@ Key topics include:
 - Multimodal detection of aware and unaware mind wandering in online learning environments
 - Adaptive, attention-aware learning technologies and real-time interventions
 - Automated assessment of classroom dynamics and collaborative learning , such as hand-raising, gaze interaction and discourse quality
+- AI supported writing feedback and process analytics
 - AI literacy and human-centered LLM-based feedback systems for K-12 learners
 
 
 ## News
+- **May 2026** Research collaboration and 2 week visit at the Center of Advanced Studies (CAS) at LMU Munich with [Dr. Maurice Fürstenberg](https://www.cas.lmu.de/de/personen-am-cas/details/maurice-fuerstenberg-81bab76b.html).
+- **Jan. 2026** Research Stay at the National Institue of Education (NIE), at the Nanyang Technological University Singapore.
 - **July 2025** Invited IJAIED talk on generalizable video-based mind wandering detection (see [paper](https://link.springer.com/content/pdf/10.1007/s40593-024-00412-2.pdf)) ([International Conference of Artifical Intelligence in Education (AIED) 2025](https://aied2025.itd.cnr.it))
 - **June 2025** Invited talk on the potential for adaptive learning in XR: automated recognition of cognitive processes through eye tracking ([Workshop of the Extended Reality Focus Group, University of Bern, Switzerland](https://www.digitalisierung.unibe.ch/implementation/focus_groups/subpage_focus_group_extended_reality/index_eng.html)) 
 - **May 2025** Talk on the democratisation of education: Using AI to create more equal opportunities for children (see [linkedin](https://www.linkedin.com/posts/babette-b%C3%BChler-6615791b2_it-was-such-a-pleasure-to-be-part-of-the-activity-7333552656210149388-e1h2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGP02kB19WCo0PITxWSrXq6GoiA2aF29mU)) ([Super Science Club – Wissenschaft hautnah erleben, Zamanand Festival](https://zamanand.de/buehnen/super-science-club/))

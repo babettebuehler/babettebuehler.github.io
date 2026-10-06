@@ -1,13 +1,27 @@
 main:
 
+  - title: 'Democratizing writing support with AI: insights from one year of real-world interactions with an open-access writing 
+            feedback tool'
+    authors: <strong>Bühler, B.</strong>, Bueno, I., & Kasneci, E.
+    conference_short: AAAI
+    conference: Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 40, No. 45, pp. 38278-38286).
+    #pdf: ''
+    link: 'https://doi.org/10.1609/aaai.v40i45.41167'
+    image: ./assets/img/AAAI.JPG
+    # poster: ~
+    # code: ~
+    # bibtex: ~
+    # notes: ~
+
+
   - title: 'Mapping Mind Wandering to the ‘Self-Regulated Learning Process, Multimodal
       Data, and Analysis Grid’: A Systematic Review'
     authors: <strong>Bühler, B.</strong>, Fütterer, T., von Keyserlingk, L., Bozkir,
       E., Kasneci, E., Gerjets, P., & Trautwein, U.
     conference_short: EdPsychRev
-    conference: Educational Psychology Review, 2025. Accepted for Publication.
+    conference: Educational Psychology Review, 2025.
     #pdf: ''
-    link: ''
+    link: 'https://doi.org/10.1007/s10648-025-10041-3'
     image: ./assets/img/EPR.JPG
     # poster: ~
     # code: ~
@@ -45,13 +59,29 @@ main:
 
 other:
 
+  - title: 'A conceptual framework to integrate research programs on self-regulation in education'
+    authors: Wortha, F., Gerjets, P., Azevedo, R., Bernacki, M., Brucker, B.,  <strong>Bühler, B.</strong>, ... & Trautwein, U.
+    conference_short: EPR
+    conference: Educational Psychology Review, 2026.
+    #pdf: https://arxiv.org/pdf/2505.07902
+    link: https://doi.org/10.1007/s10648-026-10196-7
+    #image: ./assets/img/buehler-2025-edm-thumbnail.png
+
+  - title: 'From Scoring to Explanations: Evaluating SHAP and LLM Rationales for Rubric-based Teaching Quality Assessment'
+    authors: Bueno, I. , <strong>Bühler, B.</strong>, Stark, P., Fütterer, T., Trautwein, U., Demszky, D., ... & Kasneci, E. 
+    conference_short: ACL
+    conference: Findings of the Association for Computational Linguistics: ACL 2026.
+    #pdf: https://arxiv.org/pdf/2505.07902
+    link: https://doi.org/10.18653/v1/2026.findings-acl.375
+    #image: ./assets/img/buehler-2025-edm-thumbnail.png
+
   - title: 'Multimodal Assessment of Classroom Discourse Quality: A Text-Centered Attention-Based
       Multi-Task Learning Approach'
     authors: Hou, R., <strong>Bühler, B.</strong>, Fütterer, T., Bozkir, E., Gerjets,
       P., Trautwein, U., & Kasneci, E.
     conference_short: EDM
     conference: Proceedings of the 18th International Conference on Educational Data
-      Mining, Palermo, Italy, 2025. Accepted for Publication.
+      Mining, Palermo, Italy, 2025.
     #pdf: https://arxiv.org/pdf/2505.07902
     link: https://arxiv.org/pdf/2505.07902
     #image: ./assets/img/buehler-2025-edm-thumbnail.png
