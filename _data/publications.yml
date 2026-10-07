@@ -70,7 +70,7 @@ other:
   - title: 'From Scoring to Explanations: Evaluating SHAP and LLM Rationales for Rubric-based Teaching Quality Assessment'
     authors: Bueno, I. , <strong>Bühler, B.</strong>, Stark, P., Fütterer, T., Trautwein, U., Demszky, D., ... & Kasneci, E. 
     conference_short: ACL
-    conference: Findings of the Association for Computational Linguistics: ACL 2026.
+    conference: "Findings of the Association for Computational Linguistics: ACL 2026."
     #pdf: https://arxiv.org/pdf/2505.07902
     link: https://doi.org/10.18653/v1/2026.findings-acl.375
     #image: ./assets/img/buehler-2025-edm-thumbnail.png
